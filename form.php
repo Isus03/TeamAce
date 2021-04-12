@@ -49,6 +49,6 @@ if(isset($_POST['email']) && $_POST['email'] != '') {
                 </div>';
     }
   }
-header("Location: https://teamaceweb.azurewebsites.net/final.html");
+header("Location: https://teamaceweb.azurewebsites.net/final.htm");
 exit();
 ?>
